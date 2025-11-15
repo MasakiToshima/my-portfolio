@@ -7,10 +7,10 @@ export default function GreetingSection() {
       <p
         className="
         text-[22px] leading-relaxed
-        text-green-900/80    /* 濃緑の超淡い版 */
+        text-green-900/75    /* 濃緑の超淡い版 */
         font-serif
         max-w-3xl mx-auto
-        text-center
+        text-left
       "
       >
         ものづくりが好きで、
