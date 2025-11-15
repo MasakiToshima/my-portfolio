@@ -16,7 +16,7 @@ export default function Home() {
       <HeroVisual
         title="Masaki Toshima"
         subtitle="北海道大学大学院でインタラクションの研究をしています."
-        backgroundImage="/cows.jpg"
+        backgroundImage="/cows.JPG"
         scrollLabel="scroll"
       />
       <GreetingSection />
