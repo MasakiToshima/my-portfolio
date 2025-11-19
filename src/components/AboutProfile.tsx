@@ -4,10 +4,12 @@ import { FaTwitter, FaInstagram } from "react-icons/fa";
 import Name from "@/components/Name";
 import ProfileLines from "@/components/ProfileLines";
 import Button from "@/components/Button";
+import Title from "./Title";
 
 export default function AboutProfile() {
   return (
     <div className="w-full py-8">
+      <Title>Profile</Title>
       <Name
         kanji="戸嶋 将幹"
         furigana="としま まさき"
